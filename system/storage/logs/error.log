@@ -1,0 +1,95 @@
+2017-10-26 21:59:38 - PHP Notice:  Undefined variable: button_save in C:\xampp\htdocs\openCart\firstShop\admin\view\template\module\mymodul.tpl on line 6
+2017-10-26 21:59:38 - PHP Notice:  Undefined variable: button_cancel in C:\xampp\htdocs\openCart\firstShop\admin\view\template\module\mymodul.tpl on line 7
+2017-10-26 22:55:55 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 4
+2017-10-26 23:18:27 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 22
+2017-10-26 23:26:17 - PHP Notice:  Undefined property: Loader::$url in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 0:22:34 - PHP Notice:  Undefined property: Loader::$url in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 0:22:37 - PHP Notice:  Undefined property: Loader::$url in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:43:18 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 1:44:04 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 28
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:02:28 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 49
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:14:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 54
+2017-10-27 3:14:50 - PHP Warning:  array_pop() expects parameter 1 to be array, integer given in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 55
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:00 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:40 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:20:40 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\openCart\firstShop\catalog\controller\module\mymodul.php on line 56
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:39:48 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 9
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: breadcrumb in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 6
+2017-10-27 3:40:04 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 9
+2017-10-27 3:40:22 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 8
+2017-10-27 3:42:49 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 11
+2017-10-27 3:44:06 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 3:45:04 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 3:45:12 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 3:45:19 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 3:45:44 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 3:45:55 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\openCart\firstShop\catalog\view\theme\default\template\module\mymodul.tpl on line 13
+2017-10-27 4:29:27 - PHP Notice:  Undefined variable: button_save in C:\xampp\htdocs\openCart\firstShop\admin\view\template\module\mymodul.tpl on line 6
+2017-10-27 4:29:27 - PHP Notice:  Undefined variable: button_cancel in C:\xampp\htdocs\openCart\firstShop\admin\view\template\module\mymodul.tpl on line 7

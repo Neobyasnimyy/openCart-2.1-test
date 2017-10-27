@@ -1,0 +1,11 @@
+.myModul{
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.myModul >p:first-child {
+    text-align: center;
+    font-size: 20px;
+}
